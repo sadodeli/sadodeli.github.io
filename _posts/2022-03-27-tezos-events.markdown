@@ -310,3 +310,8 @@ since the type-checker needs to make sure that the `event` data type needs to ma
 Events are currently not considered for support in views because views are supposed to be simple
 computation on the immutable contract storage.
 There is no serious use case for allowing views to emit event logs.
+
+# Current progress
+
+We shall refer readers to [tezos/tezos!4656](https://gitlab.com/tezos/tezos/-/merge_requests/4656) and
+[tezos/tzip!179](https://gitlab.com/tezos/tzip/-/merge_requests/179) for updates on the proposal.
